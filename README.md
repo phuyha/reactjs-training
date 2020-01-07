@@ -78,3 +78,12 @@ unmount: khi component không dùng nữa chuyển trang thì là unmount
 > Bộ công cụ viết lại bootstrap theo cách của react  
 Cách sử dụng: npm install --save reactstrap  
 yarn add reactstrap  
+
+## 20. Storybook
+> Công cụ giúp làm việc nhóm tốt hơn  
+> npm install @storybook/react --save-dev  
+
+## 21. Codesandbox
+> Công cụ demo app
+
+## 22. Higher Order Components
