@@ -71,3 +71,10 @@ unmount: khi component không dùng nữa chuyển trang thì là unmount
 - componentDidUpdate(): được gọi ngay sau khi render() được gọi (props, state)  
 - componentWillUnmount(): được gọi trước khi component unmount -> có thể dùng để remove các listener (tránh tình trạng leak memory)
 - #shouldComponentUpdate(): hàm dùng để tối ưu performace của app
+
+## 19. React + Bootstrap = Reactstrap
+> Tích hợp bootstrap(css framework) vào trong React Project
+### reactstrap
+> Bộ công cụ viết lại bootstrap theo cách của react  
+Cách sử dụng: npm install --save reactstrap  
+yarn add reactstrap  
